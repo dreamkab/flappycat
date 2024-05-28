@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\fb game\fb game\obj\Debug\fb game.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\fb game\fb game\obj\Debug\MainWindow.g.cs
+C:\Users\PC\source\repos\fb game\fb game\obj\Debug\App.g.cs
+C:\Users\PC\source\repos\fb game\fb game\obj\Debug\fb game_MarkupCompile.cache
+C:\Users\PC\source\repos\fb game\fb game\obj\Debug\fb game_MarkupCompile.lref
+C:\Users\PC\source\repos\fb game\fb game\bin\Debug\fb game.exe.config
+C:\Users\PC\source\repos\fb game\fb game\bin\Debug\fb game.exe
+C:\Users\PC\source\repos\fb game\fb game\bin\Debug\fb game.pdb
+C:\Users\PC\source\repos\fb game\fb game\obj\Debug\MainWindow.baml
+C:\Users\PC\source\repos\fb game\fb game\obj\Debug\fb game.g.resources
+C:\Users\PC\source\repos\fb game\fb game\obj\Debug\fb_game.Properties.Resources.resources
+C:\Users\PC\source\repos\fb game\fb game\obj\Debug\fb game.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\fb game\fb game\obj\Debug\fb game.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\fb game\fb game\obj\Debug\fb game.exe
+C:\Users\PC\source\repos\fb game\fb game\obj\Debug\fb game.pdb
